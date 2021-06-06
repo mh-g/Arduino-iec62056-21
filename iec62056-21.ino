@@ -1,7 +1,7 @@
 unsigned long last;
 
 #define INPUTPIN A0
-#define THRESHOLD 10
+#define THRESHOLD 180
 
 #define FASTADC 1
 
